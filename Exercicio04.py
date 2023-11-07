@@ -1,6 +1,6 @@
 # Jogo da Forca em Python
 
-palavra = "Python"
+palavra = "Harry Potter"
 letras_usuario = []
 chances = 4
 ganhou = False  
